@@ -1,0 +1,2 @@
+la base de datos para este ejemplo se llama crud_libros
+link del video: https://www.youtube.com/watch?v=j7bml8EQpIk&list=PL4tyW7PPyukdi0_wm0hK56TCSpfZaZGbD&index=10&t=1015s
